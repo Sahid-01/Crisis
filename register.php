@@ -195,7 +195,7 @@
                 <div class="form-group col-md-6">
                   <label for="password" style="color: #676a6a">Password</label>
                   <input
-                    type="text"
+                    type="password"
                     class="form-control"
                     id="password"
                     name="password"
